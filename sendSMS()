@@ -1,0 +1,9 @@
+<REQUEST>
+  <ACTION>sendSMS </ACTION>
+	<API_KEY>API KEY</API_KEY>
+	<SPID>SPID</SPID>
+	<TO>Recipient Number</TO>
+	<FROM>shortcode</FROM>
+	<CAMPAIGNREF>CampaignID</CAMPAIGNREF>
+	<TEXT>SMS Text message text</TEXT>
+</REQUEST>
