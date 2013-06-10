@@ -1,0 +1,22 @@
+<REQUEST>
+    <ACTION>saveMMS</ACTION>
+    <API_KEY>API KEY</API_KEY>
+    <SUBJECT>Subject </SUBJECT>
+    <CONTENT>
+        <NAME>Name to save it as</NAME>
+        <SEQUENCE>
+            <SLIDE duration="Duration in seconds">
+                <IMAGE>
+                <URL>URL</URL>
+                </IMAGE>
+                <AUDIO>
+                <URL>URL</URL>
+                </AUDIO>
+                <TEXT>Plain Text</TEXT>
+            </SLIDE>
+            <SLIDE>
+              …
+            </SLIDE>
+            </SEQUENCE>
+    </CONTENT>
+</REQUEST>
