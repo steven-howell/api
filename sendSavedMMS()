@@ -1,0 +1,11 @@
+<REQUEST>
+  <ACTION>sendSavedMMS</ACTION>
+	<API_KEY>API KEY</API_KEY>
+	<MMSID>MMSID</MMSID>
+	<TO>Number</TO>
+	<FROM>Shortcode</FROM>
+	<CAMPAIGNREF>CampaignID</CAMPAIGNREF>
+        <DDMTITLE>DDM Title</DDMTITLE>
+        <DDMTEXT>DDM Body</DDMTEXT>
+        <DDMTIMEOUT>DDM Timeout in minutes</DDMTIMEOUT>
+</REQUEST>
