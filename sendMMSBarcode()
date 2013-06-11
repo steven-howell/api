@@ -1,0 +1,10 @@
+<REQUEST>
+  <ACTION>sendMMSBarcode</ACTION>
+	<API_KEY>API KEY</API_KEY>
+	<MMSID>MMSID</MMSID>
+	<TO>Number</TO>
+        <FROM>Shortcode</FROM>
+        <DATABASEID>DatabaseID</DATABASEID>
+        <BARCODEID>BarcodeID</BARCODEID>
+        <CAMPAIGNREF>CampaignID</CAMPAIGNREF>
+</REQUEST>
