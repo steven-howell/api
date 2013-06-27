@@ -6,22 +6,24 @@ Introduction
 Language and Abbreviations
 Table of Contents
 API XML Overview
+
 API FUNCTIONS
-sendSMS
-saveMMS
-sendSavedMMS
-sendMMSBarcode
-sendSavedMMSCampaign
-sendSavedEmail
-createUser
-createMMSCampaign
-createEmailCampaign
-loginUser
-getSendingStatistics
-subscribe and unsubscribe
-subscribeEmail and unsubscribeEmail
-RemoveMMSInboxContent
-SMS/MMS MO
+  sendSMS
+  saveMMS
+  sendSavedMMS
+  sendMMSBarcode
+  sendSavedMMSCampaign
+  sendSavedEmail
+  createUser
+  createMMSCampaign
+  createEmailCampaign
+  loginUser
+  getSendingStatistics
+  subscribe and unsubscribe
+  subscribeEmail and unsubscribeEmail
+  RemoveMMSInboxContent
+  SMS/MMS MO
+
 APPENDIX A
 APPENDIX B
 APPENDIX C
